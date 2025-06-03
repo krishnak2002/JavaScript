@@ -39,4 +39,3 @@ console.log(Boolean(str)); // O/P : true
 
 let str1 = " "; // space 
 console.log(Boolean(str1)); // O/P : true
-
